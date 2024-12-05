@@ -23,3 +23,21 @@ body{
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
+.r5{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.r6{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.r7{
+    display: flex;
+    justify-content: space-around;
+}
+.r8{
+    display: flex;
+    justify-content: space-around;
+}
