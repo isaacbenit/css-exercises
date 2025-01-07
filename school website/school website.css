@@ -38,3 +38,49 @@ button{
     color: white;
     align-items: left;
 }
+.image4{
+    width:40em;
+}
+.five{
+    display: flex;
+    gap:10px
+}
+.six{
+    display: flex;
+    margin-top: 1%;
+    gap: 10px;
+}
+.btn{
+    background-color:white;
+    color: grey;
+    border-radius: 5px;
+    font-size: 9px;
+}
+.img{
+    width: 9px;
+    height: 12px;
+}
+.ls1{
+    margin-right: 60px;
+    
+}
+.ls1 .one{
+    margin-bottom: 20PX;
+}
+.ls2{
+    margin-right: 60px;
+    margin-top: 12px;
+}
+.ls2 .one{
+margin-bottom: 20PX;
+}
+ul{
+    list-style-type: none;
+}
+.footer{
+    display: flex;
+    gap: 12px;
+    list-style: none;
+    width: 80em;
+    background-color:rgba(249, 249,249, 1);
+}
