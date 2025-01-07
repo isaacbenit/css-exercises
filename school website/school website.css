@@ -1,0 +1,40 @@
+body{
+    margin-left: 20%;
+}
+.content{
+    width: 80em;
+    background-color:white;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 20px;
+   
+}
+.two{
+    background-image: url(image\ 18.png);
+    color: aliceblue;
+    text-align: center;
+}
+.head2{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 20px;
+}
+.three{
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+    list-style: none;
+}
+.three p{
+    text-align: left;
+   
+}
+button{
+    background-color: blue;
+    color: white;
+    align-items: left;
+}
