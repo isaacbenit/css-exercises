@@ -3,7 +3,8 @@ body{
 }
 .content{
     width: 80em;
-    background-color:white;
+    background-color:white
+
 }
 .head{
     display: flex;
@@ -15,6 +16,7 @@ body{
     padding-top: 27px;
     list-style: none;
     gap: 10px;
+    
    
 }
 .two{
@@ -25,8 +27,7 @@ body{
     text-align: center;
     background-image: url(image\ 18.png);
     color: aliceblue;
-    
-
+    position: sticky;
 }
 .head2{
     display: flex;
