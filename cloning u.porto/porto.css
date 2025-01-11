@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+}
+.alldata{
+    height: 1234px;
+    
+}
+.heading{
+    display: flex;
+    background-color: rgb(81, 80, 80);
+    font-family:'Times New Roman', Times, serif;
+    gap: 60em;
+    padding-left: 70px;
+    position: fixed;
+    width: 100%;
+}
+.h1{
+    display: flex;
+    gap: 12px;
+}
+.h2{
+    display: flex;
+    list-style: none;
+    gap: 12px;
+}
+.img{
+    width: 12px;
+    height: 12px;
+}
+.secondheading{
+    display: flex;
+    background-color:rgb(146, 145, 145);
+    gap: 30em;
+    height: 35px;
+    padding-top: 35px;
+    padding-bottom: 15px;
+    padding-left: 70px;
+}
+.img3{
+    width: 100%;
+}
