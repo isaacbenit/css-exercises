@@ -64,3 +64,10 @@
     padding-bottom: 8px;
     
 }
+.secondheading ul li:hover{
+    color: #fff;
+    background: #000;
+}
+.secondheading ul li{
+    transition: all .5s ease;
+}
