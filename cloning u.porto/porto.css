@@ -37,5 +37,30 @@
     padding-left: 70px;
 }
 .img3{
+    background-image: url(Screenshot\ 2025-01-10\ 145408.png);
+    height: 30em;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.words{
+    margin-left: 20px;
+}
+.line{
+    background-color: black;
     width: 100%;
+    height: -80%;
+}
+#sech{
+    background-color: rgb(138, 103, 57);
+    width: 100%;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#input{
+    width: 100%;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
 }
