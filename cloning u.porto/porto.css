@@ -3,16 +3,17 @@
 }
 .alldata{
     height: 1234px;
-    
 }
 .heading{
     display: flex;
     background-color: rgb(81, 80, 80);
     font-family:'Times New Roman', Times, serif;
     gap: 60em;
-    padding-left: 70px;
+    padding-left: 190px;
     position: fixed;
     width: 100%;
+    
+
 }
 .h1{
     display: flex;
@@ -26,6 +27,9 @@
 .img{
     width: 12px;
     height: 12px;
+}
+.img2{
+    padding-left: 120px;
 }
 .secondheading{
     display: flex;
@@ -43,7 +47,9 @@
     background-repeat: no-repeat;
 }
 .words{
-    margin-left: 20px;
+    padding-left: 170px;
+    font-size: large;
+    width: 1500px;
 }
 .line{
     background-color: black;
@@ -52,13 +58,13 @@
 }
 #sech{
     background-color: rgb(138, 103, 57);
-    width: 100%;
+    width: 1000px;
     margin-top: 15px;
     padding-top: 8px;
     padding-bottom: 8px;
 }
 #input{
-    width: 100%;
+    width: 1000px;
     margin-top: 15px;
     padding-top: 8px;
     padding-bottom: 8px;
@@ -70,4 +76,15 @@
 }
 .secondheading ul li{
     transition: all .5s ease;
+}
+.words2 h3{
+    padding-top: 39px;
+}
+.words2 h5{
+    padding-top: 12px;
+}
+.allsection{
+    padding-left: 170px;
+    display: flex;  
+    gap: 20px; 
 }
